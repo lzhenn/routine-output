@@ -3,7 +3,7 @@
 TODAY=$(date +"%Y%m%d")
 
 # fetch dirs
-$SPELLCASTER_FIG=/disk/hq247/yhuangci/lzhenn/workspace/spellcaster-local/fig/realtime.*
+SPELLCASTER_FIG=/disk/hq247/yhuangci/lzhenn/workspace/spellcaster-local/fig/realtime.*
 
 # execute
 cp $SPELLCASTER_FIG ./spellcaster/
